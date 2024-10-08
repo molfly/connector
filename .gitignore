@@ -1,0 +1,24 @@
+# Ignore SSH config backups and temp files
+*.bak
+*.tmp
+
+# Ignore log files
+*.log
+
+# Ignore compiled files
+*.out
+*.o
+
+# Ignore sensitive files
+.ssh/
+configFile
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore editor specific files
+*.swp
+*~
+.idea/
+.vscode/

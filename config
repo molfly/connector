@@ -1,0 +1,7 @@
+Host <serverName>
+    HostName <ip or hostname>
+    User <user>
+    IdentityFile ~/.ssh/<ssh_key>
+    Port 22
+    ServerAliveInterval 60
+    ServerAliveCountMax 3
