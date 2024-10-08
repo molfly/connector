@@ -1,6 +1,6 @@
 # Explanation of Comments:
 
-![Connector](https://github.com/molfly/molfly/blob/main/connector.png)
+![Connector](https://github.com/molfly/connector/blob/master/connector.png)
 
 * Path to the SSH configuration file: Specifies the path to the SSH config file.
 * ANSI Art for the word SSH: Defines and displays the SSH art with Cyan color.
