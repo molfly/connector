@@ -1,5 +1,7 @@
 # Explanation of Comments:
 
+![Connector](https://github.com/molfly/molfly/blob/main/connector.png)
+
 * Path to the SSH configuration file: Specifies the path to the SSH config file.
 * ANSI Art for the word SSH: Defines and displays the SSH art with Cyan color.
 * Function to parse the configuration file and extract host names: Reads the SSH config file, finds lines starting with Host, and extracts the host names.
